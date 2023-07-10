@@ -1,0 +1,2 @@
+# asistenteopenai
+ OPENAI
